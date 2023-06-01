@@ -17,4 +17,6 @@ In addition to my core skills, I have also worked with the following:
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](#)
 
 ## 📫 Contact
-Feel free to reach out and say hi! Let's connect on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/conor-hutchins-768428140/), where we can discuss opportunities, collaborations, or just have a chat about tech and coding!
+Feel free to reach out and say hi! 
+
+Let's connect on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/conor-hutchins-768428140/), where we can discuss opportunities, collaborations, or just have a chat about tech and coding!
