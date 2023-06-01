@@ -1,5 +1,18 @@
 ### Hi there 👋
-I'm Conor :metal:
+I'm Conor and I'm a junior Software Engineer
+
+🚀 Skills
+I specialise in the following languages and technologies:
+
+ReactJS
+JavaScript
+NodeJS
+
+📫 Contact
+Feel free to reach out and say Hello!:
+
+LinkedIn
+
 <!--
 **conorhutchins/conorhutchins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
