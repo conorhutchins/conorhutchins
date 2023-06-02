@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Conor, and I'm a passionate Junior Software Engineer with a focus on web development and a love for self development and building innovative applications. Welcome to my GitHub profile!
+I'm Conor, and I'm a passionate Junior Software Engineer with a focus on web development and a love for self development and building innovative applications. Welcome to my GitHub!
 
 ## 🚀 Skills
 I specialize in the following languages and technologies:
