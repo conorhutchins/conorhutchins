@@ -1,7 +1,5 @@
-<!-- Optional banner -->
-
-<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 24px;">Conor Hutchins</h1>
-<h3 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px;">Frontend Developer from Leeds</h3>
+<h1 align="center">Conor Hutchins</h1>
+<h3 align="center">Frontend Developer from Leeds</h3>
 
 ---
 
@@ -18,46 +16,67 @@ I enjoy learning, collaborating, and building side projects. Outside of coding I
 
 ---
 
-### Connect
+### Find me on
 <p align="left">
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/conorhutchins" target="_blank" rel="noopener">
-    <img alt="LinkedIn" width="32" height="32" 
-         src="https://unpkg.com/simple-icons@v11/icons/linkedin.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+      <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="32">
+    </picture>
   </a>&nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/conorhutchins" target="_blank" rel="noopener">
-    <img alt="GitHub" width="32" height="32" 
-         src="https://unpkg.com/simple-icons@v11/icons/github.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
+      <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="32">
+    </picture>
   </a>&nbsp;&nbsp;
+
+  <!-- X -->
   <a href="https://x.com/" target="_blank" rel="noopener">
-    <img alt="X" width="32" height="32" 
-         src="https://unpkg.com/simple-icons@v11/icons/x.svg" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
+      <img alt="X" src="https://skillicons.dev/icons?i=twitter" height="32">
+    </picture>
   </a>
+
 </p>
 
 ---
 
-### Tech Stack
+### Stack
 <p align="left">
-  <img alt="TypeScript" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/typescript.svg" />
-  &nbsp;&nbsp;
-  <img alt="React" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/react.svg" />
-  &nbsp;&nbsp;
-  <img alt="Vue.js" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/vuedotjs.svg" />
-  &nbsp;&nbsp;
-  <img alt="Next.js" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/nextdotjs.svg" />
-  &nbsp;&nbsp;
-  <img alt="Tailwind CSS" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/tailwindcss.svg" />
-  &nbsp;&nbsp;
-  <img alt="Node.js" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/nodedotjs.svg" />
-  &nbsp;&nbsp;
-  <img alt="GraphQL" width="36" height="36" 
-       src="https://unpkg.com/simple-icons@v11/icons/graphql.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+    <img alt="TypeScript" src="https://skillicons.dev/icons?i=ts" height="36">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark">
+    <img alt="React" src="https://skillicons.dev/icons?i=react" height="36">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue&theme=dark">
+    <img alt="Vue" src="https://skillicons.dev/icons?i=vue" height="36">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=next&theme=dark">
+    <img alt="Next.js" src="https://skillicons.dev/icons?i=next" height="36">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark">
+    <img alt="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind" height="36">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark">
+    <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="36">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=graphql&theme=dark">
+    <img alt="GraphQL" src="https://skillicons.dev/icons?i=graphql" height="36">
+  </picture>
 </p>
 
 ---
