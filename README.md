@@ -1,22 +1,13 @@
-<h1 align="center">Conor Hutchins</h1>
-<h3 align="center">Frontend Developer from Leeds</h3>
+<h1 align="center">Heya, I'm Conor 🥷</h1>
 
----
-
-### Links
+### My links
 - [Portfolio](https://conorhutchins.co.uk/)
 - [CV](https://docs.google.com/document/d/1LTWfvUjxotw5KEsRcoXrvMtxPQSrGgGJlJQ6FLSVF6k/edit?usp=sharing)
 - Contact: <conorhutchins@btinternet.com>
 
 ---
 
-### About Me
-I’m a frontend developer specialising in **TypeScript**, **React**, and **Vue**.  
-I enjoy learning, collaborating, and building side projects. Outside of coding I train in Brazilian Jiu-Jitsu and support Leeds United.
-
----
-
-### Find me on
+### Catch me on
 <p align="left">
 
   <!-- LinkedIn -->
@@ -34,14 +25,6 @@ I enjoy learning, collaborating, and building side projects. Outside of coding I
       <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="32">
     </picture>
   </a>&nbsp;&nbsp;
-
-  <!-- X -->
-  <a href="https://x.com/" target="_blank" rel="noopener">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
-      <img alt="X" src="https://skillicons.dev/icons?i=twitter" height="32">
-    </picture>
-  </a>
 
 </p>
 
@@ -82,10 +65,10 @@ I enjoy learning, collaborating, and building side projects. Outside of coding I
 ---
 
 <details>
-  <summary><strong>Featured Projects</strong></summary>
+  <summary><strong>Projects of interest</strong></summary>
 
-- <strong>Last Man Standing HQ</strong> – Football prediction platform built with Next.js and Supabase  
-- <strong>SOTERweb</strong> – Compliance platform used across UK universities and NHS Trusts  
+- <strong>Last Man Standing HQ</strong> – Football competition platform built with React, Typescript, Next.js and Supabase  
+- <strong>SOTERweb</strong> – Compliance platform used in UK universities and NHS Trusts  
 - <strong>Movie Search App</strong> – Lightweight React app using a public films API  
 
 </details>
