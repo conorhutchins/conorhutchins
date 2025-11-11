@@ -7,7 +7,7 @@
 
 ---
 
-### Catch me on
+### Get me on
 <p align="left">
 
   <!-- LinkedIn -->
@@ -18,13 +18,6 @@
     </picture>
   </a>&nbsp;&nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/conorhutchins" target="_blank" rel="noopener">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
-      <img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="32">
-    </picture>
-  </a>&nbsp;&nbsp;
 
 </p>
 
